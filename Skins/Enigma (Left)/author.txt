@@ -1,0 +1,31 @@
+ENIGMA
+for LAUNCHY
+by Kaelri
+
+-----------------------
+LICENSE
+
+Enigma for Launchy is released under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. (http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+This skin also makes use of the "ecqlipse 2" icon set, by chrfb (http://chrfb.deviantart.com/art/quot-ecqlipse-2-quot-PNG-59941546) under the same license.
+
+-----------------------
+CHANGELOG
+
+1.1
+-----
+Date: 18 November 2010
+- Added mirror version.
+- Fixed graphics error.
+
+1.0
+-----
+Date: 18 October 2009
+- First release.
+
+-----------------------
+CONTACT
+
+Email	Kaelri+lcd@gmail.com
+Project	http://kaelri.deviantart.com/art/Enigma-for-Launchy-140641113
+Home	http://kaelri.comze:z
